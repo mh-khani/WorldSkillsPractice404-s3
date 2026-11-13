@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13876F3C-776C-EC5C-AC54-3B1BEB3C7E64}|WS404S22WinForm\\WS404S22WinForm.csproj|d:\\programming\\projects\\worldskill1404\\s32\\ws404s22winform\\ws404s22winform\\factorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13876F3C-776C-EC5C-AC54-3B1BEB3C7E64}|WS404S22WinForm\\WS404S22WinForm.csproj|solutionrelative:ws404s22winform\\factorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13876F3C-776C-EC5C-AC54-3B1BEB3C7E64}|WS404S22WinForm\\WS404S22WinForm.csproj|d:\\programming\\projects\\worldskill1404\\s32\\ws404s22winform\\ws404s22winform\\dto\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13876F3C-776C-EC5C-AC54-3B1BEB3C7E64}|WS404S22WinForm\\WS404S22WinForm.csproj|solutionrelative:ws404s22winform\\dto\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13876F3C-776C-EC5C-AC54-3B1BEB3C7E64}|WS404S22WinForm\\WS404S22WinForm.csproj|d:\\programming\\projects\\worldskill1404\\s32\\ws404s22winform\\ws404s22winform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13876F3C-776C-EC5C-AC54-3B1BEB3C7E64}|WS404S22WinForm\\WS404S22WinForm.csproj|solutionrelative:ws404s22winform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13876F3C-776C-EC5C-AC54-3B1BEB3C7E64}|WS404S22WinForm\\WS404S22WinForm.csproj|d:\\programming\\projects\\worldskill1404\\s32\\ws404s22winform\\ws404s22winform\\buyticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13876F3C-776C-EC5C-AC54-3B1BEB3C7E64}|WS404S22WinForm\\WS404S22WinForm.csproj|solutionrelative:ws404s22winform\\buyticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13876F3C-776C-EC5C-AC54-3B1BEB3C7E64}|WS404S22WinForm\\WS404S22WinForm.csproj|D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\ws404s22winform\\factorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13876F3C-776C-EC5C-AC54-3B1BEB3C7E64}|WS404S22WinForm\\WS404S22WinForm.csproj|solutionrelative:ws404s22winform\\factorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13876F3C-776C-EC5C-AC54-3B1BEB3C7E64}|WS404S22WinForm\\WS404S22WinForm.csproj|D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\ws404s22winform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13876F3C-776C-EC5C-AC54-3B1BEB3C7E64}|WS404S22WinForm\\WS404S22WinForm.csproj|solutionrelative:ws404s22winform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\WS404S22WinForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "WS404S22WinForm\\MainForm.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\WS404S22WinForm\\MainForm.cs [Design]",
+              "RelativeToolTip": "WS404S22WinForm\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T14:14:21.461Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\WS404S22WinForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "WS404S22WinForm\\MainForm.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\WS404S22WinForm\\MainForm.cs",
+              "RelativeToolTip": "WS404S22WinForm\\MainForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T14:12:46.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DTOs.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\WS404S22WinForm\\DTO\\DTOs.cs",
+              "RelativeDocumentMoniker": "WS404S22WinForm\\DTO\\DTOs.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\WS404S22WinForm\\DTO\\DTOs.cs",
+              "RelativeToolTip": "WS404S22WinForm\\DTO\\DTOs.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswD0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T13:42:51.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactorForm.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\WS404S22WinForm\\FactorForm.cs",
+              "RelativeDocumentMoniker": "WS404S22WinForm\\FactorForm.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\WS404S22WinForm\\FactorForm.cs",
+              "RelativeToolTip": "WS404S22WinForm\\FactorForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T13:34:32.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FactorForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\WS404S22WinForm\\FactorForm.cs",
+              "RelativeDocumentMoniker": "WS404S22WinForm\\FactorForm.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\WS404S22WinForm\\FactorForm.cs [Design]",
+              "RelativeToolTip": "WS404S22WinForm\\FactorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T13:30:44.67Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuyTicketForm.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\WS404S22WinForm\\BuyTicketForm.cs",
+              "RelativeDocumentMoniker": "WS404S22WinForm\\BuyTicketForm.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WorldSkill1404\\S32\\WS404S22WinForm\\WS404S22WinForm\\BuyTicketForm.cs",
+              "RelativeToolTip": "WS404S22WinForm\\BuyTicketForm.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswFYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T10:02:36.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
